@@ -10,10 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/carlos-gsilva/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](www.linkedin.com/in/alexsandro-a-fonseca)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@carlosgsilva.dev
-)
 
 
 <br />
