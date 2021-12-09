@@ -4,7 +4,7 @@
 - 💬 Me chamo **Alexsandro Fonseca**, tenho 26 anos.
 - 📌  De Manaus, Amazônia, Brasil.
 - 💼 Programador de Sistemas, Desenvolvedor Web
-- 🎓 Cursando o sétimo período de Sistemas de Informação
+- 🎓 Cursando o oitavo período de Sistemas de Informação
 
 <hr>
 
