@@ -6,7 +6,12 @@
 - 💼 Programador de Sistemas, Desenvolvedor Web
 - 🎓 Bacharel em Sistemas de Informação
 
+
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexWside&repo=LucasGooes&countColorcountColor)
 <hr>
+             
+       
 
 ### Connect with me:
 
