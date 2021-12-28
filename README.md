@@ -14,12 +14,10 @@
        
 
 ### Connect with me:
+<br/>
 
-[<img align="left" width="40px" src="https://img.icons8.com/color/26/000000/linkedin.svg" />](https://www.linkedin.com/in/alexsandro-a-fonseca)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-a-fonseca)
 
-
-
-<br />
 
 ### Languages and Tools:
 
@@ -33,7 +31,13 @@
 
 <img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/26/000000/css3.png" />
 
+<img align="left" width="26px" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png">
+
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
+
+<img align="left" width="26px" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png">
+
+<img align="left" width="26px" alt="Postman" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png">
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
