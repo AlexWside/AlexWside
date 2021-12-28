@@ -16,7 +16,13 @@
 ### Connect with me:
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-a-fonseca)
+<div>
+
+<a href="https://instagram.com/alex_westside_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:alexsandro.akila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alexsandro-a-fonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 
 ### Languages and Tools:
@@ -37,13 +43,13 @@
 
 <img align="left" width="26px" alt="Vue" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png">
 
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
+<img align="left" alt="Mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" />
 
 <img align="left" width="26px" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png">
 
 <img align="left" width="26px" alt="Postman" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png">
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -51,8 +57,14 @@
 <br />
 
 ---
+<center>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlexWside&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<a href="https://github.com/AlexWside">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWside&layout=compact&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexWside&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+
+ </center>
+
 
 
 [linkedin]: www.linkedin.com/in/alexsandro-a-fonseca
