@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://img.icons8.com/color/26/000000/linkedin.svg" />](https://www.linkedin.com/in/alexsandro-a-fonseca)
+[<img align="left" width="40px" src="https://img.icons8.com/color/26/000000/linkedin.svg" />](https://www.linkedin.com/in/alexsandro-a-fonseca)
 
 
 
