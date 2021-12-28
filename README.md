@@ -27,13 +27,15 @@
 
 <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/color/26/000000/php.png" />
 
+<img align="left" width="26px" alt="Laravel" src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png">
+
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v2.png" />
 
 <img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/26/000000/css3.png" />
 
 <img align="left" width="26px" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png">
 
-<img align="left" width="26px" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png">
+<img align="left" width="26px" alt="Vue" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png">
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 
