@@ -1,5 +1,7 @@
 ### ✨ Alexsandro Fonseca ✨
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%23503C9F&size=73&center=true&vCenter=true&width=1920&height=100&lines=echo('Welcome!'))](https://git.io/typing-svg)
+
 ### ✨ Sobre mim 🔭 : 
 - 💬 Me chamo **Alexsandro Fonseca**, tenho 26 anos.
 - 📌  De Manaus, Amazônia, Brasil.
