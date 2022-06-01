@@ -13,7 +13,7 @@
 
 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexWside&repo=LucasGooes&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexWside&repo=AlexWside&countColorcountColor)
 <hr>
              
        
