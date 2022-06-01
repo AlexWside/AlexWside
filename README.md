@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%423697FF&size=73&center=true&vCenter=true&width=1920&height=100&lines=echo+"Welcome")](https://git.io/typing-svg)
 
-### ✨ Alexsandro Fonseca ✨
+### ✨ Alexsandro Fonseca ✨ 
 
 <hr>
 
@@ -13,9 +13,9 @@
 
 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexWside&repo=AlexWside&countColorcountColor)
-<hr>
-             
+![Visitors](https://api.visitorbadge.io/api/visitors?path=AlexWside&labelColor=%23697689&countColor=%232ccce4&style=flat-square)
+
+<hr>   
        
 
 ### Connect with me:
