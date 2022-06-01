@@ -1,8 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%423697FF&size=73&center=true&vCenter=true&width=1920&height=100&lines=echo+"Welcome")](https://git.io/typing-svg)
 
-### ✨ Alexsandro Fonseca ✨ 
-
 <hr>
 <img width="50%" height="200"  align="right" src="https://user-images.githubusercontent.com/60578173/171411556-762446d3-0d7c-40a3-95d7-7a21b88cd664.gif"><br>
 ### ✨ Sobre mim 🔭 : <br>
