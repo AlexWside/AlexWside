@@ -4,7 +4,7 @@
 ### ✨ Alexsandro Fonseca ✨ 
 
 <hr>
-<img width="50%" height="200"  align="right" src="https://user-images.githubusercontent.com/60578173/171411556-762446d3-0d7c-40a3-95d7-7a21b88cd664.gif">
+<img width="50%" height="200"  align="right" src="https://user-images.githubusercontent.com/60578173/171411556-762446d3-0d7c-40a3-95d7-7a21b88cd664.gif"><br>
 ### ✨ Sobre mim 🔭 : <br>
 - 💬 Me chamo **Alexsandro Fonseca**, tenho 26 anos.<br>
 - 📌  De Manaus, Amazônia, Brasil.<br>
@@ -13,7 +13,7 @@
 
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=AlexWside&labelColor=%23697689&countColor=%232ccce4&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=AlexWside&labelColor=%23697689&countColor=%232ccce4&style=flat-square) <br>
 
 
 
