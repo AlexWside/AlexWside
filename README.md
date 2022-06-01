@@ -4,16 +4,18 @@
 ### ✨ Alexsandro Fonseca ✨ 
 
 <hr>
-
-### ✨ Sobre mim 🔭 : 
-- 💬 Me chamo **Alexsandro Fonseca**, tenho 26 anos.
-- 📌  De Manaus, Amazônia, Brasil.
-- 💼 Programador de Sistemas, Desenvolvedor Web
-- 🎓 Bacharel em Sistemas de Informação
+<img width="50%" height="200"  align="right" src="https://user-images.githubusercontent.com/60578173/171411556-762446d3-0d7c-40a3-95d7-7a21b88cd664.gif">
+### ✨ Sobre mim 🔭 : <br>
+- 💬 Me chamo **Alexsandro Fonseca**, tenho 26 anos.<br>
+- 📌  De Manaus, Amazônia, Brasil.<br>
+- 💼 Programador de Sistemas, Desenvolvedor Web<br>
+- 🎓 Bacharel em Sistemas de Informação <br><br><br>
 
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=AlexWside&labelColor=%23697689&countColor=%232ccce4&style=flat-square)
+
+
 
 <hr>   
        
