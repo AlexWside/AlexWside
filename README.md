@@ -4,7 +4,7 @@
 <hr>
 <div>
 <img width="50%" height="100%"  align="right" src="https://user-images.githubusercontent.com/60578173/171411556-762446d3-0d7c-40a3-95d7-7a21b88cd664.gif"><br>
-<div  width="50%" align="left"   >
+<div  width="50%" align="left">
 <h3> ✨ Sobre mim 🔭 : </h3><br>
 - 💬 Me chamo <b>Alexsandro Fonseca</b>, tenho 26 anos.<br>
 - 📌  De Manaus, Amazônia, Brasil.<br>
