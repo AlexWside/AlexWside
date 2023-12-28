@@ -30,7 +30,7 @@
 
 
 
-<a href="https://www.instagram.com/codewizzard.js" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/codewizard.js" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/alexsandro-a-fonseca" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 
