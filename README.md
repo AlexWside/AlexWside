@@ -8,7 +8,7 @@
 <h3> ✨ Sobre mim 🔭 : </h3><br>
 - 💬 Me chamo <b>Alexsandro Fonseca</b>, tenho 26 anos.<br>
 - 📌  De Manaus, Amazônia, Brasil.<br>
-- 💼 Programador de Sistemas, Desenvolvedor Web<br>
+- 💼  Desenvolvedor Web<br>
 - 🎓 Bacharel em Sistemas de Informação <br><br><br>
 
 
